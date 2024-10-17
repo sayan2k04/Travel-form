@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+h1{
+    background-color: aqua;
+    color: crimson;
+}
+h2{
+    background-color: aqua;
+    color:blueviolet
+}
+#Titel{
+    color: aqua;
+}
+.sayan{
+    text-align: center;
+    margin:20px;
+    padding:10px;
+}
